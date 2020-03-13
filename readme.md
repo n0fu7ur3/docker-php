@@ -6,3 +6,6 @@ php
 mysql
 nginx
 adminer
+
+nginx :80
+adminer :8080
