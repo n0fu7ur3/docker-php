@@ -1,6 +1,0 @@
-2020/03/13 14:38:59 [emerg] 1#0: open() "/etc/nginx/fastscgi_params" failed (2: No such file or directory) in /etc/nginx/sites-enabled/default:18
-2020/03/13 14:41:47 [emerg] 1#0: open() "/etc/nginx/fastscgi_params" failed (2: No such file or directory) in /etc/nginx/sites-enabled/default:18
-2020/03/13 14:44:47 [error] 6#0: *2 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.19.0.1, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "localhost"
-2020/03/13 14:44:48 [error] 6#0: *2 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "localhost", referrer: "http://localhost/"
-2020/03/13 14:47:13 [error] 6#0: *6 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.19.0.1, server: , request: "GET / HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "localhost"
-2020/03/13 14:49:09 [error] 6#0: *8 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.19.0.1, server: , request: "GET /index.php HTTP/1.1", upstream: "fastcgi://172.19.0.2:9000", host: "localhost"
