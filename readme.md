@@ -2,10 +2,10 @@ basic set for creating applications
 
 includes
 
-php
-mysql
-nginx
-adminer
+php  
+mysql  
+nginx  
+adminer  
 
-nginx :80
+nginx :80  
 adminer :8080
